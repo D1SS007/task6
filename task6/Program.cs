@@ -16,9 +16,6 @@ namespace task6
             picturesRemains = amountOfPictures % picturesInRow;
 
             Console.WriteLine("Полных рядов = "  + fullRows + " " + ", картинок осталось =  "+ picturesRemains);
-
-
-
         }
     }
 }
